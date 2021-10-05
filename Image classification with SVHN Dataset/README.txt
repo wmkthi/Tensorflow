@@ -3,4 +3,5 @@ SVHN is an image dataset of over 600,000 digit images in all, which was obtained
 Y. Netzer, T. Wang, A. Coates, A. Bissacco, B. Wu and A. Y. Ng. "Reading Digits in Natural Images with Unsupervised Feature Learning". 
 NIPS Workshop on Deep Learning and Unsupervised Feature Learning, 2011.
 
-The  goal was to develop an end-to-end workflow for building, training, validating, evaluating and saving a neural network that classifies a real-world image into one of ten classes.
+The  goal was to develop an end-to-end workflow for building, training, validating, evaluating and saving a neural network that 
+classifies a real-world image into one of ten classes.
