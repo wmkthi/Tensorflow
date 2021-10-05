@@ -4,4 +4,4 @@ Y. Netzer, T. Wang, A. Coates, A. Bissacco, B. Wu and A. Y. Ng. "Reading Digits 
 NIPS Workshop on Deep Learning and Unsupervised Feature Learning, 2011.
 
 The  goal was to develop an end-to-end workflow for building, training, validating, evaluating and saving a neural network that 
-classifies a real-world image into one of ten classes.
+classifies a real-world image into one of ten classes..
