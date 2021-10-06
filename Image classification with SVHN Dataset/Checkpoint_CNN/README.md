@@ -1,2 +1,2 @@
 # Model Checkpoints for CNN
-![ScreenShot](https://github.com/wmkthi/Tensorflow/blob/main/Image%20classification%20with%20SVHN%20Dataset/CNN_architecture.png)
+![Model Architecture](https://github.com/wmkthi/Tensorflow/blob/main/Image%20classification%20with%20SVHN%20Dataset/CNN_architecture.png)
